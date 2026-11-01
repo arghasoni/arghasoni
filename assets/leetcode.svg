@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232" role="img" aria-label="LeetCode stats for arghasoni">
+<defs>
+  <linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#b44cff"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".22"/></pattern>
+  <clipPath id="frame"><rect width="480" height="232" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="480" height="232" fill="#0b0f1a"/>
+<rect width="480" height="232" fill="url(#scan)"/>
+<rect x="0" y="-4" width="480" height="3" fill="url(#neon)" opacity=".4"><animate attributeName="y" values="-4;232" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="227" width="480" height="5" fill="url(#neon)"><animate attributeName="opacity" values=".5;1;.5" dur="2.5s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="479" height="231" rx="14" fill="none" stroke="#ffc01e" stroke-opacity=".55"/>
+<text x="24" y="36" font-family="'Courier New',monospace" font-size="18" font-weight="700" fill="#ffc01e" letter-spacing="3">▌LEETCODE · ARGHASONI</text>
+<text x="456" y="36" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#8b95a8" letter-spacing="1">AWAITING FIRST SYNC</text>
+<circle cx="92" cy="126" r="50" fill="none" stroke="#161b22" stroke-width="11"/><text x="92" y="134" text-anchor="middle" font-family="'Courier New',monospace" font-size="28" font-weight="700" fill="#ffffff">--</text><text x="92" y="152" text-anchor="middle" font-family="'Courier New',monospace" font-size="10" fill="#8b95a8" letter-spacing="2">SOLVED</text><text x="176" y="90" font-family="'Courier New',monospace" font-size="13" fill="#00b8a3" letter-spacing="1">EASY</text><rect x="256" y="80" width="100" height="12" fill="#161b22" stroke="#00b8a3" stroke-opacity=".4"/><rect x="256" y="80" width="0" height="12" fill="#00b8a3"><animate attributeName="width" values="0;0;0;0" keyTimes="0;.18;.9;1" dur="9s" begin="0.0s" repeatCount="indefinite"/></rect><text x="456" y="90" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#c9d1d9">-- / --</text><text x="176" y="130" font-family="'Courier New',monospace" font-size="13" fill="#ffc01e" letter-spacing="1">MEDIUM</text><rect x="256" y="120" width="100" height="12" fill="#161b22" stroke="#ffc01e" stroke-opacity=".4"/><rect x="256" y="120" width="0" height="12" fill="#ffc01e"><animate attributeName="width" values="0;0;0;0" keyTimes="0;.18;.9;1" dur="9s" begin="0.25s" repeatCount="indefinite"/></rect><text x="456" y="130" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#c9d1d9">-- / --</text><text x="176" y="170" font-family="'Courier New',monospace" font-size="13" fill="#ff375f" letter-spacing="1">HARD</text><rect x="256" y="160" width="100" height="12" fill="#161b22" stroke="#ff375f" stroke-opacity=".4"/><rect x="256" y="160" width="0" height="12" fill="#ff375f"><animate attributeName="width" values="0;0;0;0" keyTimes="0;.18;.9;1" dur="9s" begin="0.5s" repeatCount="indefinite"/></rect><text x="456" y="170" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#c9d1d9">-- / --</text>
+</svg>

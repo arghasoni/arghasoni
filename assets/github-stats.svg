@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232" role="img" aria-label="GitHub stats for arghasoni">
+<defs>
+  <linearGradient id="neon" x1="0" x2="1"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#b44cff"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".22"/></pattern>
+  <clipPath id="frame"><rect width="480" height="232" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="480" height="232" fill="#0b0f1a"/>
+<rect width="480" height="232" fill="url(#scan)"/>
+<rect x="0" y="-4" width="480" height="3" fill="url(#neon)" opacity=".4"><animate attributeName="y" values="-4;232" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="0" y="227" width="480" height="5" fill="url(#neon)"><animate attributeName="opacity" values=".5;1;.5" dur="2.5s" repeatCount="indefinite"/></rect>
+</g>
+<rect x=".5" y=".5" width="479" height="231" rx="14" fill="none" stroke="#00f0ff" stroke-opacity=".55"/>
+<text x="24" y="36" font-family="'Courier New',monospace" font-size="18" font-weight="700" fill="#00f0ff" letter-spacing="3">▌GITHUB · ARGHASONI</text>
+<text x="456" y="36" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#8b95a8" letter-spacing="1">AWAITING FIRST SYNC</text>
+<text x="24" y="70" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">STARS EARNED</text><text x="24" y="96" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="174" y="70" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">COMMITS (1Y)</text><text x="174" y="96" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="324" y="70" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">PULL REQUESTS</text><text x="324" y="96" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="24" y="124" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">ISSUES</text><text x="24" y="150" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="174" y="124" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">PUBLIC REPOS</text><text x="174" y="150" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="324" y="124" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">FOLLOWERS</text><text x="324" y="150" font-family="'Courier New',monospace" font-size="24" font-weight="700" fill="#ffffff">--</text><text x="24" y="182" font-family="'Courier New',monospace" font-size="11" fill="#8b95a8" letter-spacing="2">TOP LANGUAGES</text><clipPath id="lc"><rect x="24" y="190" width="432" height="10" rx="3"><animate attributeName="width" values="0;432;432;0" keyTimes="0;.15;.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath><rect x="24" y="190" width="432" height="10" rx="3" fill="#161b22" stroke="#00f0ff" stroke-opacity=".3"/>
+</svg>

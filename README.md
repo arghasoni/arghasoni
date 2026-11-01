@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-arghabiswas2004-00f0ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f1a)](https://www.linkedin.com/in/arghabiswas2004/)
 [![Email](https://img.shields.io/badge/EMAIL-biswas.argha009-ff2e88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f1a)](mailto:biswas.argha009@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-arghasoni-ffc01e?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0b0f1a)](https://leetcode.com/u/arghasoni/)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-argha__soni-b44cff?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b0f1a)](https://www.instagram.com/argha_soni)
 
 </div>
@@ -86,8 +87,8 @@ Recent B.Tech CSE (Data Science) graduate from MCKV Institute of Engineering (**
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arghasoni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00f0ff&icon_color=ff2e88&text_color=c9d1d9" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghasoni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f1a&title_color=00f0ff&text_color=c9d1d9" alt="Top languages"/>
+<a href="https://github.com/arghasoni"><img src="assets/github-stats.svg" width="49%" alt="GitHub stats"/></a>
+<a href="https://leetcode.com/u/arghasoni/"><img src="assets/leetcode.svg" width="49%" alt="LeetCode stats"/></a>
 
 <img src="https://streak-stats.demolab.com/?user=arghasoni&theme=tokyonight&hide_border=true&background=0b0f1a&ring=ff2e88&fire=ff6b35&currStreakLabel=00f0ff" alt="GitHub streak"/>
 
