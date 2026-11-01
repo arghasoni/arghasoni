@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Argha Biswas - AI/ML Engineer, Full-Stack Developer, Gamer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset="1" stop-color="#1a0b2e"/></linearGradient>
+  <linearGradient id="neon" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#00f0ff"/><stop offset=".5" stop-color="#b44cff"/><stop offset="1" stop-color="#ff2e88"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#00f0ff" stroke-opacity=".13" stroke-width="1"/>
+    <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="0 40" dur="3s" repeatCount="indefinite"/>
+  </pattern>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" fill-opacity=".28"/></pattern>
+  <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <clipPath id="frame"><rect width="1000" height="300" rx="14"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1000" height="300" fill="url(#bg)"/>
+<rect width="1000" height="300" fill="url(#grid)"/>
+<rect x="351" y="310" width="3" height="3" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="6.0s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="6.0s" begin="0.3s" repeatCount="indefinite"/></rect><rect x="394" y="310" width="5" height="5" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="4.3s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="4.3s" begin="3.0s" repeatCount="indefinite"/></rect><rect x="108" y="310" width="4" height="4" fill="#7CFFB2" opacity="0"><animate attributeName="y" values="310;-10" dur="6.1s" begin="1.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="6.1s" begin="1.4s" repeatCount="indefinite"/></rect><rect x="80" y="310" width="5" height="5" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="4.6s" begin="1.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="4.6s" begin="1.3s" repeatCount="indefinite"/></rect><rect x="610" y="310" width="5" height="5" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="6.0s" begin="5.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="6.0s" begin="5.9s" repeatCount="indefinite"/></rect><rect x="590" y="310" width="3" height="3" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="5.4s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="5.4s" begin="0.9s" repeatCount="indefinite"/></rect><rect x="604" y="310" width="4" height="4" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="6.8s" begin="4.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="6.8s" begin="4.1s" repeatCount="indefinite"/></rect><rect x="615" y="310" width="5" height="5" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="7.2s" begin="2.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="7.2s" begin="2.2s" repeatCount="indefinite"/></rect><rect x="597" y="310" width="3" height="3" fill="#7CFFB2" opacity="0"><animate attributeName="y" values="310;-10" dur="7.1s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="7.1s" begin="3.0s" repeatCount="indefinite"/></rect><rect x="815" y="310" width="4" height="4" fill="#ff2e88" opacity="0"><animate attributeName="y" values="310;-10" dur="6.3s" begin="5.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="6.3s" begin="5.5s" repeatCount="indefinite"/></rect><rect x="326" y="310" width="3" height="3" fill="#b44cff" opacity="0"><animate attributeName="y" values="310;-10" dur="8.0s" begin="4.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="8.0s" begin="4.2s" repeatCount="indefinite"/></rect><rect x="103" y="310" width="5" height="5" fill="#ff2e88" opacity="0"><animate attributeName="y" values="310;-10" dur="5.5s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="5.5s" begin="3.0s" repeatCount="indefinite"/></rect><rect x="766" y="310" width="4" height="4" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="5.4s" begin="5.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="5.4s" begin="5.9s" repeatCount="indefinite"/></rect><rect x="544" y="310" width="4" height="4" fill="#7CFFB2" opacity="0"><animate attributeName="y" values="310;-10" dur="4.8s" begin="2.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="4.8s" begin="2.1s" repeatCount="indefinite"/></rect><rect x="451" y="310" width="3" height="3" fill="#ff2e88" opacity="0"><animate attributeName="y" values="310;-10" dur="8.8s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="8.8s" begin="0.5s" repeatCount="indefinite"/></rect><rect x="368" y="310" width="5" height="5" fill="#7CFFB2" opacity="0"><animate attributeName="y" values="310;-10" dur="5.8s" begin="3.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="5.8s" begin="3.0s" repeatCount="indefinite"/></rect><rect x="90" y="310" width="3" height="3" fill="#00f0ff" opacity="0"><animate attributeName="y" values="310;-10" dur="8.7s" begin="2.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="8.7s" begin="2.8s" repeatCount="indefinite"/></rect><rect x="82" y="310" width="5" height="5" fill="#7CFFB2" opacity="0"><animate attributeName="y" values="310;-10" dur="7.5s" begin="3.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;.9;0" keyTimes="0;.1;.8;1" dur="7.5s" begin="3.9s" repeatCount="indefinite"/></rect>
+<rect width="1000" height="300" fill="url(#scan)"/>
+<rect x="0" y="-6" width="1000" height="4" fill="url(#neon)" opacity=".35"><animate attributeName="y" values="-6;300" dur="4.5s" repeatCount="indefinite"/></rect>
+
+<!-- status -->
+<circle cx="48" cy="40" r="5" fill="#7CFFB2"><animate attributeName="opacity" values="1;.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+<text x="62" y="45" font-family="'Courier New',monospace" font-size="14" fill="#7CFFB2" letter-spacing="2">ONLINE</text>
+<text x="952" y="45" text-anchor="end" font-family="'Courier New',monospace" font-size="14" fill="#ff2e88" letter-spacing="2">PLAYER 1 READY</text>
+
+<!-- title with glitch layers -->
+<g font-family="'Courier New',monospace" font-weight="900" font-size="72" letter-spacing="4">
+  <text x="60" y="150" fill="#ff2e88" opacity=".8" textLength="600" lengthAdjust="spacingAndGlyphs">ARGHA BISWAS
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;4 -2;-4 2;0 0;0 0;0 0;-3 1;3 -1;0 0" keyTimes="0;.55;.57;.59;.61;.8;.85;.87;.89;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="60" y="150" fill="#00f0ff" opacity=".8" textLength="600" lengthAdjust="spacingAndGlyphs">ARGHA BISWAS
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 0;-4 2;4 -2;0 0;0 0;0 0;3 -1;-3 1;0 0" keyTimes="0;.55;.57;.59;.61;.8;.85;.87;.89;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+  <text x="60" y="150" fill="#ffffff" filter="url(#glow)" textLength="600" lengthAdjust="spacingAndGlyphs">ARGHA BISWAS</text>
+</g>
+
+<!-- subtitle -->
+<text x="62" y="205" font-family="'Courier New',monospace" font-size="24" fill="#7CFFB2" textLength="640" lengthAdjust="spacingAndGlyphs">&gt; AI/ML ENGINEER × FULL-STACK DEV × GAMER</text>
+<rect x="708" y="186" width="14" height="24" fill="#7CFFB2"><animate attributeName="opacity" values="1;0" dur="0.9s" calcMode="discrete" repeatCount="indefinite"/></rect>
+<text x="62" y="245" font-family="'Courier New',monospace" font-size="16" fill="#8b95a8" letter-spacing="1">SAVE FILE: B.Tech CSE (Data Science) · CGPA 9.29 · R&amp;D + QA @ ErfolgWerke</text>
+
+<!-- corner brackets -->
+<g fill="none" stroke="url(#neon)" stroke-width="3">
+  <path d="M16 70V16H70"/><path d="M930 16H984V70"/><path d="M16 230V284H70"/><path d="M930 284H984V230"/>
+</g>
+<rect x="0" y="292" width="1000" height="8" fill="url(#neon)"><animate attributeName="opacity" values=".5;1;.5" dur="2.5s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
